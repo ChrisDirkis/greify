@@ -1,6 +1,6 @@
-## Greify
+## Greify (pronounced g-reify)
 
-Greify is a home-made static site generator, built specifically for [](https://chrisdirk.is). 
+Greify is a homemade static site generator, built specifically for [](https://chrisdirk.is). 
 
 ### Why?
 
